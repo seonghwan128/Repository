@@ -1,4 +1,5 @@
 # Repository
+2019732074 배성환
 
 State Variables
 미분방정식안에 의미를 부여하고 싶은부분에 state 정의하고 푼다
